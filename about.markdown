@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![OCMS]({{ site.baseurl}}/images/ocms.png)
+![OCMS]({{ site.baseurl }}/images/ocms.png)
 
 These tutorials have been written for the 2023 EMBL-EBI 'Metagenomics bioinformatics at MGnify course'.
 
